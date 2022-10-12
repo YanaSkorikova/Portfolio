@@ -115,6 +115,9 @@ img {
   margin-top: 50px;
   font-size: 96px;
 }
+.me {
+  padding: 30px;
+}
 @media (max-width: 800px) {
   h1 {
     font-size: 46px;
